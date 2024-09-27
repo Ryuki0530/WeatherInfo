@@ -1,0 +1,2 @@
+OpenWeatherから気象情報を取得するための試作
+”OPENWEATHER_API_KEY”の名前で環境変数を用意し、APIキーを記述してください。
